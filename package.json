@@ -1,0 +1,9 @@
+{
+  "name": "rashtrarang",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rashtra Rang - Hindi Digital News Publication",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

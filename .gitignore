@@ -39,3 +39,10 @@ desktop.ini
 .idea/
 *.sublime-project
 *.sublime-workspace
+
+# Vercel
+.vercel
+
+
+.vercel
+.env*
